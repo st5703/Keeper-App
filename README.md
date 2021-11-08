@@ -7,7 +7,7 @@ Link to My Yelp-Camp Web Page -> [Click Me!](https://infinite-caverns-07333.hero
 - HTML
 - CSS
 - Javascript
-### Back-end (MongoDB, Express)
+### Back-end (MongoDB, Express, Node)
 - MongoDB
 - express
 - mongoose
